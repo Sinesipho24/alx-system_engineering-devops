@@ -1,1 +1,1 @@
-This script displays a confused smiley
+Displays the content of /etc/passwd & /etc/hosts
